@@ -11,6 +11,7 @@ Welcome to the Microsoft Fabric Unified Data Analytics GitHub repository. This r
 - [Key Features](#key-features)
 - [Enterprise Data Challenge](#enterprise-data-challenge)
 - [Fabric Architecture](#fabric-architecture)
+- [Reference Architecture](#Reference-Architecture)
 
 ## About Microsoft Fabric
 
@@ -39,5 +40,11 @@ Enterprises today grapple with complex data challenges as they strive to excel i
 ![Fabric Architecture](/img/Architecture.jpg)
 
 Explore the architecture of Microsoft Fabric and understand how it provides a robust foundation for unified data analytics in your organization.
+
+## Reference Architecture
+
+Explore reference architectures and design patterns for implementing Microsoft Fabric in various enterprise scenarios. Learn how to tailor Fabric to your specific data analytics needs and optimize its performance.
+
+![Fabric Architecture](/img/Reference_Architecture.jpg)
 
 
